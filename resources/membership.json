@@ -836,5 +836,12 @@
 		"name": "Brandon's Blog",
 		"description": "分享个人生活与技术日常",
 		"github_username": "Brandon-LIs"
+	},
+	"131": {
+		"domain": "https://cpumind.com/",
+		"icon": "https://pic1.imgdb.cn/i/034v6XMHAb0KjGWOHAr8ig.jpg",
+		"name": "愈见博客",
+		"description": "阿愈的技术博客，记录技术经验、踩坑复盘，分享好用的工具。",
+		"github_username": "citihu"
 	}
 }
